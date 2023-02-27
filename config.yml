@@ -3,3 +3,8 @@ languageCode: en-us
 title: Leon's Blog
 theme: "PaperMod"
 enableRobotsTXT: true
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be info, links, about...
