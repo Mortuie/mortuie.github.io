@@ -1,4 +1,5 @@
 baseURL: https://blog.leonb.cc/
 languageCode: en-us
-title: My New Hugo Site
+title: Leon's Blog
 theme: "PaperMod"
+enableRobotsTXT: true
