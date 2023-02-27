@@ -6,5 +6,5 @@ enableRobotsTXT: true
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be info, links, about...
+    Title: Welcome to my random thoughts and ramblings on the world and mostly tech.
+    Content: I currently work at AWS as an SDE. All the thoughts and opinions presented here are my own.
