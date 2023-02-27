@@ -1,10 +1,8 @@
 ---
 author: "Leon Boehmer"
-title: "Intro"
+title: "First Post"
 date: "2023-02-27"
 ---
-
-# First Post
 
 ## Introduction
 
